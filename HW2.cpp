@@ -3,7 +3,7 @@ Asignacion 2: Suma de dos fracciones
 Nombre: Maria A. Nieves Rivera
 Num. Est: 801-19-5581
 Colaboraciones:
-- I. Gonzalez Albino12
+- I. Gonzalez Albino
 */
 
 #include <iostream>
